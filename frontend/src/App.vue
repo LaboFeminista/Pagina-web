@@ -1,7 +1,8 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import TarjetaDinamica from './components/TarjetaDinamica.vue';
 </script>
 
 <template>
-  <HelloWorld />
+  <TarjetaDinamica/>
+  
 </template>
